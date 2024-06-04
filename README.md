@@ -1,3 +1,6 @@
+开发板内核版本和架构：Linux luckfox 5.10.110 armv7l GNU/Linux
+gcc编译器：arm-rockchip830-linux-uclibcgnueabihf
+
 步骤 1：将附件同 Dockerfile 放置同一目录下，运行以下指令
 
 ```
