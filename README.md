@@ -5,7 +5,7 @@ gcc编译器：arm-rockchip830-linux-uclibcgnueabihf
 
 # 步骤
 
-步骤 1：将附件同 Dockerfile 放置同一目录下，运行以下指令
+步骤 1：将附件(arm-rockchip830-linux-uclibcgnueabihf.tar.xz、rust_rv1106.tar.xz)同 Dockerfile 放置同一目录下，运行以下指令
 
 ```
 docker build -t rv1106:V1.0 .
